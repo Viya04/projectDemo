@@ -1,4 +1,4 @@
 # projectDemo
 This is my first github Repository
 <br>
-Author-Vidya
+Author-Vidya (VidyaDhari)
